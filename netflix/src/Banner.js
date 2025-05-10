@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
+
 import axios from 'axios';
 import requests from './requests';
+
 import './Banner.css'; // Assuming you have a CSS file for styling
 
 function Banner() {
