@@ -1,5 +1,5 @@
 { 
-  "Homepage": "https:/rstega .github.io/Netflix-clone",
+  "Homepage": "https:/rstega.github.io/Netflix-clone",
   "name": "netflix",
   "version": "0.1.0",
   "private": true,
@@ -27,7 +27,7 @@
     "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "prebuild": "npm run build",
+   
     "postbuild": "gh-pages -d build",
     "postdeploy": "gh-pages -d build",
     "build": "react-scripts build",
